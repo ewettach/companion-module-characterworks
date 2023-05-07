@@ -1,6 +1,3 @@
-# companion-module-characterworks
-Characterworks Module for Companion
+# companion-module-[daktronics-dmp]
 
-# See HELP.md for instructions on how to use this plugin
-
-
+See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
